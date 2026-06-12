@@ -12,6 +12,27 @@ gpt-5.4 for entity linking) · configurable embeddings (OpenAI by default, or lo
 
 ---
 
+## Quick start
+
+The repository ships with a **pre-built store** (`data/`, ~9 MB), so you only need an API key to run the app:
+
+```bash
+cd agorag
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+
+# 1. Configure the API key
+cp .env.example .env     # add your OPENAI_API_KEY
+
+# 2. Run the app
+python gradio_app.py                     # http://127.0.0.1:7860
+```
+
+Open the app and ask, e.g. *"What has Agora published about coal phase-out in
+Southeast Asia?"*
+
+---
+
 ## Architecture
 
 The codebase is a `core` library imported by a thin backend:
@@ -91,26 +112,6 @@ clickable citation links on the left, an interactive force-directed graph on the
 
 ---
 
-## Quick start
-
-The repository ships with a **pre-built store** (`data/`, ~9 MB), so you only need an API key to run the app:
-
-```bash
-cd agorag
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-
-# 1. Configure the API key
-cp .env.example .env     # add your OPENAI_API_KEY
-
-# 2. Run the app
-python gradio_app.py                     # http://127.0.0.1:7860
-```
-
-Open the app and ask, e.g. *"What has Agora published about coal phase-out in
-Southeast Asia?"*
-
----
 
 ## Rebuilding the store (ETL)
 
