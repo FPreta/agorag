@@ -234,3 +234,13 @@ query vectors match.
 - **LLM failure** → the retrieved publications are returned unsynthesized, plus a
   deterministic fallback graph built from the linked entities.
 - **Malformed graph JSON from the answer model** → falls back to the previous graph state.
+
+## Design decisions and scaling
+
+- **Latency** → to reduce perceived latency, the entity linker (gpt-5.4) streams a brief natural language acknowledgment of the query to the user while simultaneously performing entity linking. The user sees a response almost immediately, and the heavier answer generation step begins once the entity linking is complete.
+- **Dependency minimization** → embedding and LLMs are entirely managed with the OpenAI API to reduce the number of dependencies.
+- **Task subdivision and scaling** → the entity linker uses a lighter LLM (gpt-5.4) to map the query to a small number of entities and the answer generation and the graph generation are both responsibilities of the same heavier LLM (gpt-5.5). This setup works for this specific use case, but would not scale well with a larger number of entities and publications. In that case, one would have to use a specific NER model (such as GliNER) for entity recognition on the queries, and a dedicated entity linker (for instance through cosine similarity or trigram similarity) not relying on LLMs. The two calls for answer generation and graph generation would be separated asynchronously and one could add a router at the beginning of the session that identifies the task requested by the query, as well as a reranker that filters which chunks/publications are relevant. I considered these improvements to be beyond the scope of the POC.
+- **Incremental ETL** → the ETL process is designed to be incremental, so that when additional papers are loaded on the website, rerunning would enrich the existing data with the new content. However, the pipeline would considerably benefit from accessing the data prior to their publication on the website, directly from a database.
+
+
+
