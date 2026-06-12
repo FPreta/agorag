@@ -7,8 +7,8 @@ across Agora's research.
 
 **Stack:** a reusable `core` library (ETL + inference) · a thin `backend` service ·
 a single-file Gradio UI · Qdrant (local, persistent) · OpenAI (gpt-5.5 for answers,
-gpt-5.4 for entity linking) · configurable embeddings (local
-`sentence-transformers` or OpenAI).
+gpt-5.4 for entity linking) · configurable embeddings (OpenAI by default, or local
+`sentence-transformers`).
 
 ---
 
@@ -66,7 +66,7 @@ everything); the graph and the store files are always rewritten in full.
 
 - **Retriever** embeds the query and fetches the top-k findings from Qdrant.
 - **Linker** streams a one-sentence **gpt-5.4** acknowledgment, then resolves the
-  `|||ENTITIES|||` tail into the known topics/regions/authors the query references
+  `|||ENTITIES|||` tail into the known topics/regions the query references
   and expands them into their connected publications.
 - **GraphParser** streams a cited **gpt-5.5** answer, then parses the
   `|||GRAPH_UPDATE|||` tail into the validated knowledge graph (edges are rebuilt
@@ -86,15 +86,14 @@ everything); the graph and the store files are always rewritten in full.
 
 `backend.service.AppService` loads the store via `InferencePipeline.from_data_dir`
 and adds the few UI-facing extras Gradio needs (publication lookups, citation
-URLs). `gradio_app.py` is a two-panel layout: streaming chat with clickable
-citation chips on the left, an interactive force-directed graph on the right.
+URLs). `gradio_app.py` is a two-panel layout: streaming chat with inline,
+clickable citation links on the left, an interactive force-directed graph on the right.
 
 ---
 
 ## Quick start
 
-The repository ships with a **pre-built store** (`data/` — the full Agora
-archive, ~9 MB), so you only need an API key to run the app:
+The repository ships with a **pre-built store** (`data/`, ~9 MB), so you only need an API key to run the app:
 
 ```bash
 cd agorag
@@ -110,11 +109,6 @@ python gradio_app.py                     # http://127.0.0.1:7860
 
 Open the app and ask, e.g. *"What has Agora published about coal phase-out in
 Southeast Asia?"*
-
-> The bundled store was embedded with the default `local` model
-> (`all-MiniLM-L6-v2`), which downloads on the first query. If you change
-> `EMBEDDING_PROVIDER` / `EMBEDDING_MODEL`, rebuild the store (below) so document
-> and query vectors stay compatible.
 
 ---
 
@@ -160,23 +154,22 @@ a publication missing findings/figures/experts is still captured.
 
 ### Data model — a heterogeneous graph
 
-Four node types: `publication`, `topic`, `region`, `author`. Publications are
-**never** linked directly to each other — they connect through shared topic,
-region, and author hubs:
+Three node types: `publication`, `topic`, `region`. Publications are
+**never** linked directly to each other — they connect through shared topic
+and region hubs:
 
 ```
 publication --[has_topic]--> topic
 publication --[has_region]--> region
-publication --[has_author]--> author
 ```
 
-Node ids are `{prefix}::{slug}` (`pub::…`, `topic::…`, `region::…`, `author::…`).
+Node ids are `{prefix}::{slug}` (`pub::…`, `topic::…`, `region::…`).
 
 ### The search pipeline
 
 1. **In parallel:** embed the query + Qdrant semantic search over key findings
    *(fast)*, and a **gpt-5.4** call that streams a one-sentence acknowledgment, then
-   (after `|||ENTITIES|||`) a JSON list of the topics/regions/authors the query
+   (after `|||ENTITIES|||`) a JSON list of the topics/regions the query
    references. The acknowledgment streams immediately; the JSON is parsed
    server-side.
 2. **Assemble context:** expand the linked entities into their connected
@@ -188,11 +181,16 @@ Node ids are `{prefix}::{slug}` (`pub::…`, `topic::…`, `region::…`, `autho
 
 ### Frontend
 
-The graph is **owned by the answer model** — each `graph` event replaces the whole state,
-preserving the positions of nodes that persist and animating in genuinely new
-ones. Clicking a publication node (or a citation chip) opens a detail card with
-summary, key findings, authors, tags and a link; clicking a topic/region/author
-lists its connected publications, flagged in-graph or elsewhere in the archive.
+A single-file Gradio app ([gradio_app.py](gradio_app.py)): a two-column layout with
+the streaming chat on the left and the knowledge graph on the right. The answer
+streams token-by-token (with citations rewritten into clickable `(ref. …)`
+links); once it finishes, the **complete** graph state is rendered as an
+interactive `vis-network` graph inside an iframe, colored and shaped by node type
+(publication / topic / region — see the legend). Each query replaces the whole
+graph and re-runs the force layout. Clicking a node reveals a side detail panel:
+a publication shows its summary, key findings, authors, tags and a link; a
+topic/region hub lists its publications, split into those in the current graph and
+those elsewhere in the archive.
 
 ---
 
@@ -202,15 +200,18 @@ lists its connected publications, flagged in-graph or elsewhere in the archive.
 
 | Variable | Default | Notes |
 | --- | --- | --- |
-| `OPENAI_API_KEY` | — | Required for synthesis. Missing key → clear in-chat message. |
-| `EMBEDDING_PROVIDER` | `local` | `local` (sentence-transformers) or `openai`. |
-| `EMBEDDING_MODEL` | `all-MiniLM-L6-v2` | Local ST model name, or OpenAI model id. |
+| `OPENAI_API_KEY` | — | Required for synthesis **and** for OpenAI embeddings. Missing key → clear in-chat message. |
+| `EMBEDDING_PROVIDER` | `openai` | `openai`, or `local` (requires `sentence-transformers`). |
+| `EMBEDDING_MODEL` | `text-embedding-3-small` | OpenAI model id, or a local ST model name (e.g. `all-MiniLM-L6-v2`). |
 | `EMBEDDING_BASE_URL` | — | OpenAI only — optional override for an OpenAI-compatible endpoint. |
-| `EMBEDDING_API_KEY` | — | OpenAI embeddings only. |
+| `EMBEDDING_API_KEY` | `OPENAI_API_KEY` | OpenAI embeddings only — optional; falls back to `OPENAI_API_KEY`. |
 | `DATA_DIR` | `<repo>/data` | Override where the persistent store is read/written. |
 
 The same `EmbeddingService` builds the index (ETL) and embeds queries (inference),
-so document and query vectors stay compatible.
+so document and query vectors stay compatible. The committed store was built with
+the default OpenAI `text-embedding-3-small` (1536-dim); changing
+`EMBEDDING_PROVIDER` / `EMBEDDING_MODEL` requires rebuilding the store so the
+query vectors match.
 
 ---
 

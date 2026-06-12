@@ -4,9 +4,9 @@ Used both at build time (core.etl.loader) and at query time (core.inference.
 retriever), so the same model embeds documents and queries.
 
 Configuration (env vars, see .env.example):
-    EMBEDDING_PROVIDER = local | openai     (default: local)
-    EMBEDDING_MODEL    = all-MiniLM-L6-v2   (sentence-transformers name, or OpenAI model)
-    EMBEDDING_API_KEY  = ...                (openai only)
+    EMBEDDING_PROVIDER = local | openai     (default: openai)
+    EMBEDDING_MODEL    = text-embedding-3-small   (sentence-transformers name, or OpenAI model)
+    EMBEDDING_API_KEY  = ...                (openai only, falls back to OPENAI_API_KEY if not set)
     EMBEDDING_BASE_URL = https://...        (openai only, optional override)
 
 The OpenAI path is a thin wrapper around the official ``openai`` SDK. Set
@@ -52,8 +52,8 @@ class EmbeddingService:
     @classmethod
     def from_env(cls) -> "EmbeddingService":
         return cls(
-            provider=os.getenv("EMBEDDING_PROVIDER", "local"),
-            model_name=os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2"),
+            provider=os.getenv("EMBEDDING_PROVIDER", "openai"),
+            model_name=os.getenv("EMBEDDING_MODEL", "text-embedding-3-small"),
             base_url=os.getenv("EMBEDDING_BASE_URL"),
             api_key=os.getenv("EMBEDDING_API_KEY") or os.getenv("OPENAI_API_KEY"),
         )
