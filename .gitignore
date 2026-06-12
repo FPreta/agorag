@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Gradio / VSCode
+.gradio
+.vscode/
+
+# Env / secrets
+.env
+backend/.env
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+
+
+# OS / editor
+.DS_Store
+
+# Qdrant runtime lock (the rest of data/ is committed as the pre-built store)
+data/qdrant_db/*.lock

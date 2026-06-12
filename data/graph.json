@@ -1,0 +1,4998 @@
+{
+  "nodes": [
+    {
+      "id": "pub::reforming-power-purchase-agreements-for-flexible-coal-power",
+      "type": "publication",
+      "title": "Reforming power purchase agreements for flexible coal power",
+      "date": "2026-06-02",
+      "format": "Study"
+    },
+    {
+      "id": "topic::coal-phase-out",
+      "type": "topic",
+      "name": "Coal phase-out"
+    },
+    {
+      "id": "topic::financing-and-investing-in-the-transition",
+      "type": "topic",
+      "name": "Financing and investing in the transition"
+    },
+    {
+      "id": "topic::scaling-up-renewable-energy",
+      "type": "topic",
+      "name": "Scaling up renewable energy"
+    },
+    {
+      "id": "region::southeast-asia",
+      "type": "region",
+      "name": "Southeast Asia"
+    },
+    {
+      "id": "pub::everything-you-always-wanted-to-know-about-flexibility",
+      "type": "publication",
+      "title": "Everything you always wanted to know about flexibility",
+      "date": "28 May 2026",
+      "format": "Analysis"
+    },
+    {
+      "id": "topic::zero-emissions-power-systems",
+      "type": "topic",
+      "name": "Zero-emissions power systems"
+    },
+    {
+      "id": "topic::hydrogen",
+      "type": "topic",
+      "name": "Hydrogen"
+    },
+    {
+      "id": "pub::everything-you-always-wanted-to-know-about-battery-storage",
+      "type": "publication",
+      "title": "Everything you always wanted to know about battery storage",
+      "date": "28 May 2026",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::powering-europes-industry",
+      "type": "publication",
+      "title": "Powering Europe’s industry",
+      "date": "27 May 2026",
+      "format": "Impulse"
+    },
+    {
+      "id": "topic::european-green-deal",
+      "type": "topic",
+      "name": "European Green Deal"
+    },
+    {
+      "id": "topic::pathways-to-climate-neutrality",
+      "type": "topic",
+      "name": "Pathways to climate neutrality"
+    },
+    {
+      "id": "region::european-union",
+      "type": "region",
+      "name": "European Union"
+    },
+    {
+      "id": "region::france",
+      "type": "region",
+      "name": "France"
+    },
+    {
+      "id": "region::germany",
+      "type": "region",
+      "name": "Germany"
+    },
+    {
+      "id": "region::poland",
+      "type": "region",
+      "name": "Poland"
+    },
+    {
+      "id": "pub::emerging-technologies-series-virtual-power-plants-and-southeast-asia",
+      "type": "publication",
+      "title": "Emerging technologies series: Virtual power plants and Southeast Asia",
+      "date": "10 May 2026",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "region::indonesia",
+      "type": "region",
+      "name": "Indonesia"
+    },
+    {
+      "id": "region::thailand",
+      "type": "region",
+      "name": "Thailand"
+    },
+    {
+      "id": "region::vietnam",
+      "type": "region",
+      "name": "Vietnam"
+    },
+    {
+      "id": "pub::navigating-energy-security-amid-an-evolving-risk-landscape",
+      "type": "publication",
+      "title": "Navigating energy security amid an evolving risk landscape",
+      "date": "28 April 2026",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "topic::fossil-gas-phase-down",
+      "type": "topic",
+      "name": "Fossil gas phase-down"
+    },
+    {
+      "id": "pub::from-last-mile-to-first-mile",
+      "type": "publication",
+      "title": "From last mile to first mile",
+      "date": "22 April 2026",
+      "format": "Policy Brief"
+    },
+    {
+      "id": "pub::transitioning-coal-regions-in-china-evidence-from-shanxi-and-shaanxi",
+      "type": "publication",
+      "title": "Transitioning coal regions in China: evidence from coal industry chains in Shanxi and Shaanxi",
+      "date": "22 April 2026",
+      "format": "Analysis"
+    },
+    {
+      "id": "region::china",
+      "type": "region",
+      "name": "China"
+    },
+    {
+      "id": "pub::value-and-enablers-of-data-centre-flexibility-in-europe",
+      "type": "publication",
+      "title": "Value and enablers of data centre flexibility in Europe",
+      "date": "20 April 2026",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::a-roadmap-for-industrial-electrification-in-pakistan",
+      "type": "publication",
+      "title": "A roadmap for industrial electrification in Pakistan",
+      "date": "26 February 2026",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "region::pakistan",
+      "type": "region",
+      "name": "Pakistan"
+    },
+    {
+      "id": "pub::reconfiguring-traditional-gas-appliances-in-pakistans-residential-sector",
+      "type": "publication",
+      "title": "Reconfiguring traditional gas appliances in Pakistan's residential sector",
+      "date": "26 February 2026",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::state-of-the-energy-transition-in-germany-annual-review-2025",
+      "type": "publication",
+      "title": "State of the energy transition in Germany: annual review 2025",
+      "date": "3 February 2026",
+      "format": "Analysis"
+    },
+    {
+      "id": "topic::buildings-and-heat-transition",
+      "type": "topic",
+      "name": "Buildings and heat transition"
+    },
+    {
+      "id": "pub::clean-heat-for-all",
+      "type": "publication",
+      "title": "Clean heat for all",
+      "date": "18 December 2025",
+      "format": "Policy Brief"
+    },
+    {
+      "id": "pub::rethinking-liquified-natural-gas-lng",
+      "type": "publication",
+      "title": "Rethinking liquefied natural gas (LNG): safeguarding Thailand’s energy security amid heightened risks",
+      "date": "12 December 2025",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::designing-energy-infrastructure-for-a-climate-neutral-europe",
+      "type": "publication",
+      "title": "Designing energy infrastructure for a climate-neutral Europe",
+      "date": "18 November 2025",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::integrated-infrastructure-planning-and-2050-climate-neutrality",
+      "type": "publication",
+      "title": "Integrated infrastructure planning and 2050 climate neutrality",
+      "date": "18 November 2025",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::local-electricity-prices-in-germany",
+      "type": "publication",
+      "title": "Local electricity prices in Germany",
+      "date": "17 October 2025",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::europes-energy-security-on-the-path-to-climate-neutrality",
+      "type": "publication",
+      "title": "Europe’s energy security on the path to climate neutrality",
+      "date": "2 October 2025",
+      "format": "Policy Brief"
+    },
+    {
+      "id": "pub::emerging-technologies-series-the-role-of-renewable-hydrogen-in-the-power-sector",
+      "type": "publication",
+      "title": "Emerging technologies series: the role of renewable hydrogen in the power sector",
+      "date": "8 August 2025",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::a-socially-just-heat-transition",
+      "type": "publication",
+      "title": "A socially just heat transition",
+      "date": "7 August 2025",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::thailands-natural-gas-crossroads",
+      "type": "publication",
+      "title": "Thailand’s natural gas crossroads",
+      "date": "22 July 2025",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::a-new-investment-instrument-for-onshore-wind-and-solar-pv",
+      "type": "publication",
+      "title": "A new investment instrument for onshore wind and solar PV",
+      "date": "15 July 2025",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::china-energy-transition-and-climate-status-report",
+      "type": "publication",
+      "title": "China's energy transition and climate status report",
+      "date": "2 July 2025",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::power-system-stability-in-the-age-of-renewable-energy",
+      "type": "publication",
+      "title": "Power system stability in the age of renewable energy",
+      "date": "19 June 2025",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::kazakhstans-power-system-2035",
+      "type": "publication",
+      "title": "Kazakhstan’s power system 2035: options for development",
+      "date": "5 May 2025",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "region::kazakhstan",
+      "type": "region",
+      "name": "Kazakhstan"
+    },
+    {
+      "id": "pub::making-the-most-of-green-electricity",
+      "type": "publication",
+      "title": "Making the most of green electricity",
+      "date": "5 May 2025",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::climate-neutral-germany",
+      "type": "publication",
+      "title": "Climate-neutral Germany",
+      "date": "10 April 2025",
+      "format": "Study"
+    },
+    {
+      "id": "pub::the-carbon-price-for-buildings-and-road-transport",
+      "type": "publication",
+      "title": "The carbon price for buildings and road transport",
+      "date": "20 March 2025",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::boosting-the-clean-heat-market-impulse",
+      "type": "publication",
+      "title": "Boosting the clean heat market",
+      "date": "5 February 2025",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::assessing-the-potential-impact-of-a-european-clean-heat-standard",
+      "type": "publication",
+      "title": "Assessing the potential impact of a European Clean Heat Standard",
+      "date": "5 February 2025",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::designing-a-european-clean-heat-standard",
+      "type": "publication",
+      "title": "Designing a European Clean Heat Standard",
+      "date": "5 February 2025",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::analysis-of-the-eu-heating-market",
+      "type": "publication",
+      "title": "Analysis of the EU heating market",
+      "date": "5 February 2025",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::a-just-transition-for-coal-regions-insights-from-shanxi-and-europe",
+      "type": "publication",
+      "title": "A just transition for coal regions: insights from Shanxi and Europe",
+      "date": "20 December 2024",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "type": "publication",
+      "title": "SCALE UP for net zero: benchmarking solar and wind growth in South, Southeast and East Asia",
+      "date": "28 November 2024",
+      "format": "Analysis"
+    },
+    {
+      "id": "region::japan",
+      "type": "region",
+      "name": "Japan"
+    },
+    {
+      "id": "region::south-korea",
+      "type": "region",
+      "name": "South Korea"
+    },
+    {
+      "id": "pub::power-system-stability",
+      "type": "publication",
+      "title": "Power system stability",
+      "date": "27 November 2024",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::climate-neutral-germany-executive-summary",
+      "type": "publication",
+      "title": "Climate-neutral Germany (Executive Summary)",
+      "date": "12 November 2024",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::enabling-a-just-coal-transition-in-kazakhstan",
+      "type": "publication",
+      "title": "Enabling a just coal transition in Kazakhstan",
+      "date": "8 November 2024",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::electricity-market-design-in-southeast-asia",
+      "type": "publication",
+      "title": "Electricity market designs in Southeast Asia",
+      "date": "28 October 2024",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::investing-in-the-green-deal",
+      "type": "publication",
+      "title": "Investing in the Green Deal",
+      "date": "16 September 2024",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::eu-climate-policy-between-economic-opportunities-and-fiscal-risks",
+      "type": "publication",
+      "title": "EU ­climate policy between economic ­opportunities and fiscal risks",
+      "date": "16 September 2024",
+      "format": "Study"
+    },
+    {
+      "id": "pub::unlocking-rooftop-solar-pv-investment-in-thailand",
+      "type": "publication",
+      "title": "Unlocking rooftop solar PV investments in Thailand",
+      "date": "26 August 2024",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::low-carbon-hydrogen-in-the-eu",
+      "type": "publication",
+      "title": "Low-carbon hydrogen in the EU",
+      "date": "24 July 2024",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::assessing-the-impact-of-low-carbon-hydrogen-regulation-in-the-eu",
+      "type": "publication",
+      "title": "Assessing the impact of low-carbon hydrogen regulation in the EU",
+      "date": "24 July 2024",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::support-on-regulatory-approach-for-lch-in-the-eu",
+      "type": "publication",
+      "title": "Support on regulatory approach for LCH in the EU",
+      "date": "24 July 2024",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::navigating-the-transition-to-net-zero-emissions-in-southeast-asia",
+      "type": "publication",
+      "title": "Navigating the Transition to Net-zero Emissions in Southeast Asia",
+      "date": "11 June 2024",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::9-insights-on-hydrogen-southeast-asia-edition",
+      "type": "publication",
+      "title": "9 insights on hydrogen – Southeast Asia edition",
+      "date": "30 April 2024",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::12-insights-on-hydrogen-brazil-edition-1",
+      "type": "publication",
+      "title": "12 insights on hydrogen – Brazil edition",
+      "date": "18 April 2024",
+      "format": "Impulse"
+    },
+    {
+      "id": "region::brazil",
+      "type": "region",
+      "name": "Brazil"
+    },
+    {
+      "id": "pub::boosting-flexibility-in-distribution-grids",
+      "type": "publication",
+      "title": "Boosting flexibility in distribution grids",
+      "date": "10 April 2024",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::the-benefits-of-energy-flexibility-at-home",
+      "type": "publication",
+      "title": "The benefits of energy flexibility at home",
+      "date": "10 April 2024",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::2050-climate-neutrality-roadmap-for-korea-k-map-scenario-20",
+      "type": "publication",
+      "title": "2050 Climate neutrality roadmap for Korea: K-map scenario 2.0",
+      "date": "3 April 2024",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::eu-policies-for-climate-neutrality-in-the-decisive-decade-full-report",
+      "type": "publication",
+      "title": "EU policies for climate neutrality in the decisive decade",
+      "date": "21 March 2024",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::modernising-kazakhstans-coal-dependent-power-sector-through-renewables",
+      "type": "publication",
+      "title": "Modernising Kazakhstan’s coal-dependent power sector through renewables",
+      "date": "28 February 2024",
+      "format": "Study"
+    },
+    {
+      "id": "pub::eu-policies-for-climate-neutrality-in-the-decisive-decade",
+      "type": "publication",
+      "title": "EU policies for climate neutrality in the decisive decade",
+      "date": "26 January 2024",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::the-roll-out-of-large-scale-heat-pumps-in-germany",
+      "type": "publication",
+      "title": "The roll-out of large-scale heat pumps in Germany",
+      "date": "19 December 2023",
+      "format": "Study"
+    },
+    {
+      "id": "pub::transitioning-away-from-coal-in-indonesia-vietnam-and-the-philippines",
+      "type": "publication",
+      "title": "Transitioning away from coal in Indonesia, Vietnam and the Philippines",
+      "date": "29 November 2023",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::sun-and-wind-for-net-zero-benchmarking-renewables-growth-in-south-southeast-and-east-asia",
+      "type": "publication",
+      "title": "Sun and wind for net zero - benchmarking renewables growth in South, Southeast and East Asia",
+      "date": "15 November 2023",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::hydrogen-import-options-for-germany",
+      "type": "publication",
+      "title": "Hydrogen import options for Germany (Summary & Slide Deck)",
+      "date": "31 October 2023",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::europe-china-workshop-on-carbon-markets-summary",
+      "type": "publication",
+      "title": "Briefing on the Europe-China Workshop on carbon markets, with coverage of the EU CBAM and carbon asset management",
+      "date": "27 September 2023",
+      "format": "Documentation"
+    },
+    {
+      "id": "pub::ensuring-resilience-in-europes-energy-transition",
+      "type": "publication",
+      "title": "Ensuring resilience in Europe’s energy transition",
+      "date": "12 September 2023",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::submission-to-the-european-commission-on-the-draft-recast-of-commission-regulation-813-2013-eu-on-ecodesign-for-space-and-combination-heaters",
+      "type": "publication",
+      "title": "Submission to the European Commission on the draft recast of Commission Regulation 813/2013 (EU) on ecodesign for space and combination heaters",
+      "date": "20 July 2023",
+      "format": "Consultation"
+    },
+    {
+      "id": "pub::levelised-cost-of-hydrogen",
+      "type": "publication",
+      "title": "Levelised cost of hydrogen",
+      "date": "5 July 2023",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::heat-pumps-are-the-key-to-climate-neutrality-in-buildings",
+      "type": "publication",
+      "title": "Heat pumps are the key to climate neutrality in buildings",
+      "date": "1 July 2023",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::decarbonisation-in-state-owned-power-companies",
+      "type": "publication",
+      "title": "Decarbonisation in state-owned power companies",
+      "date": "1 June 2023",
+      "format": "Documentation"
+    },
+    {
+      "id": "pub::from-coal-to-renewables",
+      "type": "publication",
+      "title": "From coal to renewables",
+      "date": "1 June 2023",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::12-insights-on-hydrogen-argentina-edition",
+      "type": "publication",
+      "title": "12 insights on hydrogen – Argentina edition",
+      "date": "30 May 2023",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::lng-climate-and-energy-security-towards-a-comprehensive-approach-for-europe",
+      "type": "publication",
+      "title": "LNG, Climate and Energy Security: Towards a Comprehensive Approach for Europe",
+      "date": "24 May 2023",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::k-map-from-vision-to-implementation",
+      "type": "publication",
+      "title": "K-Map: From vision to implementation",
+      "date": "10 May 2023",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::breaking-free-from-fossil-gas",
+      "type": "publication",
+      "title": "Breaking free from fossil gas",
+      "date": "4 May 2023",
+      "format": "Study"
+    },
+    {
+      "id": "pub::prospects-of-renewable-hydrogen-in-china-and-its-role-in-industrial-decarbonisation",
+      "type": "publication",
+      "title": "Prospects of Renewable Hydrogen in China and Its Role in Industrial Decarbonisation",
+      "date": "1 April 2023",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::how-europe-can-make-its-power-market-more-resilient",
+      "type": "publication",
+      "title": "How Europe can make its power market more resilient",
+      "date": "13 March 2023",
+      "format": "Policy Brief"
+    },
+    {
+      "id": "pub::argentina-as-a-hub-for-green-ammonia",
+      "type": "publication",
+      "title": "Argentina as a hub for green ammonia",
+      "date": "6 February 2023",
+      "format": "Policy Brief"
+    },
+    {
+      "id": "pub::electricity-market-design-for-climate-neutrality",
+      "type": "publication",
+      "title": "Electricity Market Design for Climate Neutrality",
+      "date": "3 February 2023",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::overview-of-chinas-energy-transition-2022-1",
+      "type": "publication",
+      "title": "Overview of China’s energy transition 2022",
+      "date": "20 January 2023",
+      "format": "Background"
+    },
+    {
+      "id": "pub::coordinated-development-of-distributed-renewables-and-new-power-system-type-in-china",
+      "type": "publication",
+      "title": "Coordinated development of distributed renewables and the new type of power system in China",
+      "date": "18 December 2022",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::the-driving-forces-behind-the-green-transition-in-europe-and-south-korea",
+      "type": "publication",
+      "title": "The driving forces behind the green transition in Europe and South Korea",
+      "date": "12 December 2022",
+      "format": "Study"
+    },
+    {
+      "id": "pub::overview-of-chinas-energy-transition-2022",
+      "type": "publication",
+      "title": "Overview of China’s energy transition 2022",
+      "date": "24 November 2022",
+      "format": "Background"
+    },
+    {
+      "id": "pub::no-more-fuel-to-the-fire",
+      "type": "publication",
+      "title": "No more fuel to the fire",
+      "date": "16 November 2022",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::towards-a-collective-vision-of-thai-energy-transition",
+      "type": "publication",
+      "title": "Towards a collective vision of Thai energy transition",
+      "date": "7 November 2022",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::coal-phase-out-in-germany-1",
+      "type": "publication",
+      "title": "Coal phase-out in Germany",
+      "date": "31 October 2022",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::powering-the-future-of-the-western-balkans-with-renewables-annex-i-country-level-results-for-wb-6-region",
+      "type": "publication",
+      "title": "Powering the future of the Western Balkans with renewables - annex I: country level results for WB 6 region",
+      "date": "18 October 2022",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "region::southeast-europe",
+      "type": "region",
+      "name": "Southeast Europe"
+    },
+    {
+      "id": "pub::powering-the-future-of-the-western-balkans-with-renewables-regional-wb-6-level-modelling-results",
+      "type": "publication",
+      "title": "Powering the future of the Western Balkans with renewables - regional WB-6 level modelling results",
+      "date": "18 October 2022",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::powering-the-future-of-the-western-balkans-with-renewables",
+      "type": "publication",
+      "title": "Powering the future of the Western Balkans with renewables",
+      "date": "18 October 2022",
+      "format": "Study"
+    },
+    {
+      "id": "pub::analysis-of-policy-measures-to-support-household-customers-in-times-of-high-electricity-prices",
+      "type": "publication",
+      "title": "Analysis of policy measures to support household customers in times of high electricity prices",
+      "date": "26 September 2022",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::climate-neutral-power-system-2035-summary",
+      "type": "publication",
+      "title": "Climate-neutral power system 2035 (Summary)",
+      "date": "4 August 2022",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::promoting-regional-coal-just-transitions-in-china-europe-and-beyond",
+      "type": "publication",
+      "title": "Promoting regional coal just transitions in China, Europe and beyond",
+      "date": "24 May 2022",
+      "format": "Documentation"
+    },
+    {
+      "id": "pub::coal-phase-out-in-germany",
+      "type": "publication",
+      "title": "Coal phase-out in Germany: the role of coal exit auctions",
+      "date": "23 May 2022",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::delivering-repowereu",
+      "type": "publication",
+      "title": "Delivering RePowerEU",
+      "date": "18 May 2022",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::integration-of-renewable-energy-to-the-turkish-energy-system",
+      "type": "publication",
+      "title": "Integration of renewable energy to the Turkish energy system",
+      "date": "30 April 2022",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::regaining-europes-energy-sovereignty",
+      "type": "publication",
+      "title": "Regaining Europeʼs energy sovereignty",
+      "date": "24 March 2022",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::2050-climate-neutrality-roadmap-for-korea-k-map-scenario",
+      "type": "publication",
+      "title": "2050 climate neutrality roadmap for Korea: K-map scenario",
+      "date": "17 February 2022",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::the-eus-carbon-border-adjustment-mechanism",
+      "type": "publication",
+      "title": "The EU’s Carbon Border Adjustment Mechanism",
+      "date": "19 January 2022",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::commercial-prosumers-as-catalysts-for-solar-pv-adoption-in-south-east-europe",
+      "type": "publication",
+      "title": "Commercial prosumers as catalysts for solar PV adoption in South East Europe",
+      "date": "20 December 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::transitioning-to-a-climate-neutral-eu-buildings-sector",
+      "type": "publication",
+      "title": "Transitioning to a climate-neutral EU buildings sector",
+      "date": "9 December 2021",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::beyond-net-zero-empowering-climate-mitigation-by-linking-to-development-goals",
+      "type": "publication",
+      "title": "Beyond net zero: empowering climate mitigation by linking to development goals",
+      "date": "26 November 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::12-insights-on-hydrogen",
+      "type": "publication",
+      "title": "12 insights on hydrogen",
+      "date": "18 November 2021",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::preparing-the-necessary-phase-out-of-fossil-gas-in-europe",
+      "type": "publication",
+      "title": "Preparing the necessary phase-out of fossil gas in Europe",
+      "date": "15 November 2021",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::the-net-zero-energy-transition",
+      "type": "publication",
+      "title": "The net-zero energy transition",
+      "date": "3 November 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::global-steel-at-a-crossroads",
+      "type": "publication",
+      "title": "Global steel at a crossroads",
+      "date": "3 November 2021",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::phasing-out-coal-in-the-eus-power-system-by-2030",
+      "type": "publication",
+      "title": "Phasing out coal in the EU’s power system by 2030",
+      "date": "4 October 2021",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::the-future-of-lignite-in-the-western-balkans",
+      "type": "publication",
+      "title": "The future of lignite in the Western Balkans",
+      "date": "4 October 2021",
+      "format": "Study"
+    },
+    {
+      "id": "pub::making-renewable-hydrogen-cost-competitive-legal-analysis",
+      "type": "publication",
+      "title": "Making renewable hydrogen cost-competitive (Legal analysis)",
+      "date": "2 September 2021",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::making-renewable-hydrogen-cost-competitive-study",
+      "type": "publication",
+      "title": "Making renewable hydrogen cost-competitive (Study)",
+      "date": "8 July 2021",
+      "format": "Study"
+    },
+    {
+      "id": "pub::socioeconomic-impact-of-the-power-system-transition-in-turkey",
+      "type": "publication",
+      "title": "Socioeconomic impact of the power system transition in Turkey",
+      "date": "1 July 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "region::turkey",
+      "type": "region",
+      "name": "Turkey"
+    },
+    {
+      "id": "pub::towards-climate-neutrality-in-the-buildings-sector-summary",
+      "type": "publication",
+      "title": "Towards climate neutrality in the buildings sector (Summary)",
+      "date": "17 June 2021",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::phasing-out-coal-in-chile-and-germany",
+      "type": "publication",
+      "title": "Phasing out coal in Chile and Germany",
+      "date": "15 June 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::deep-decarbonization-of-indonesias-energy-system",
+      "type": "publication",
+      "title": "Deep decarbonization of Indonesia’s energy system",
+      "date": "31 May 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::sector-coupling-for-grid-integration-of-wind-and-solar",
+      "type": "publication",
+      "title": "Sector coupling for grid integration of wind and solar",
+      "date": "30 May 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::matching-money-with-green-ideas",
+      "type": "publication",
+      "title": "Matching money with green ideas",
+      "date": "25 May 2021",
+      "format": "Background"
+    },
+    {
+      "id": "pub::tomorrows-markets-today",
+      "type": "publication",
+      "title": "Tomorrow’s markets today",
+      "date": "11 May 2021",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::towards-a-climate-neutral-germany-by-2045",
+      "type": "publication",
+      "title": "Towards a climate-neutral Germany by 2045",
+      "date": "6 May 2021",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::10-benchmarks-for-a-successful-july-fit-for-55-package",
+      "type": "publication",
+      "title": "10 benchmarks for a successful July \"Fit for 55\" package",
+      "date": "3 May 2021",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::3-covid-19-china-energy-impact-tracker",
+      "type": "publication",
+      "title": "#3 COVID-19 China Energy Impact Tracker",
+      "date": "22 April 2021",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::a-just-distribution",
+      "type": "publication",
+      "title": "A just distribution",
+      "date": "21 April 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "region::south-africa",
+      "type": "region",
+      "name": "South Africa"
+    },
+    {
+      "id": "pub::breakthrough-strategies-for-climate-neutral-industry-in-europe-study",
+      "type": "publication",
+      "title": "Breakthrough strategies for climate-neutral industry in Europe (Study)",
+      "date": "21 April 2021",
+      "format": "Study"
+    },
+    {
+      "id": "pub::co2-emissions-trading-in-buildings-and-the-landlord-tenant-dilemma-how-to-solve-it",
+      "type": "publication",
+      "title": "CO₂ emissions trading in buildings and the landlord-tenant dilemma: how to solve it",
+      "date": "26 March 2021",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::a-fit-for-55-package-based-on-environmental-integrity-and-solidarity",
+      "type": "publication",
+      "title": "A “Fit for 55” package based on environmental integrity and solidarity",
+      "date": "25 March 2021",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::renewable-pathways-to-climate-neutral-japan-summary",
+      "type": "publication",
+      "title": "Renewable pathways to climate-neutral Japan (summary)",
+      "date": "9 March 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::renewable-pathways-to-climate-neutral-japan",
+      "type": "publication",
+      "title": "Renewable pathways to climate-neutral Japan",
+      "date": "9 March 2021",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::10-years-after-fukushima",
+      "type": "publication",
+      "title": "10 years after Fukushima",
+      "date": "2 March 2021",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::no-regret-hydrogen",
+      "type": "publication",
+      "title": "No-regret hydrogen",
+      "date": "27 January 2021",
+      "format": "Study"
+    },
+    {
+      "id": "pub::the-european-power-sector-in-2020",
+      "type": "publication",
+      "title": "The European power sector in 2020",
+      "date": "25 January 2021",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::2-covid-19-china-energy-impact-tracker",
+      "type": "publication",
+      "title": "#2 COVID-19 China Energy Impact Tracker",
+      "date": "22 December 2020",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::minimizing-the-cost-of-integrating-wind-and-solar-power-in-japan",
+      "type": "publication",
+      "title": "Minimising the cost of integrating wind and solar power in Japan",
+      "date": "21 December 2020",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::towards-a-climate-neutral-germany",
+      "type": "publication",
+      "title": "Towards a climate-neutral Germany",
+      "date": "22 October 2020",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::1-covid-19-china-energy-impact-tracker",
+      "type": "publication",
+      "title": "#1 COVID-19 China Energy Impact Tracker",
+      "date": "16 September 2020",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::modernising-the-european-lignite-triangle",
+      "type": "publication",
+      "title": "Modernising the European lignite triangle",
+      "date": "1 September 2020",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::optimum-electricity-generation-capacity-mix-for-turkey-towards-2030",
+      "type": "publication",
+      "title": "Optimum electricity generation capacity mix for Turkey towards 2030",
+      "date": "1 September 2020",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::how-to-raise-europes-climate-ambitions-for-2030",
+      "type": "publication",
+      "title": "How to raise Europe’s climate ambitions for 2030",
+      "date": "24 August 2020",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::critical-review-of-the-potential-contribution-of-the-european-commission-proposal-for-an-eu-recovery-and-resilience-programme-and-a-new-multiannual-financial-framework-to-achieving-the-objectives-of-the-green-deal-and-the-2030-and-2050-climate-targets",
+      "type": "publication",
+      "title": "Critical review of the potential contribution of the European Commission proposal for an EU Recovery and Resilience Programme and a new Multiannual Financial Framework to achieving the objectives of the Green Deal and the 2030 and 2050 climate targets",
+      "date": "14 July 2020",
+      "format": "Study"
+    },
+    {
+      "id": "pub::recovering-better",
+      "type": "publication",
+      "title": "Recovering better!",
+      "date": "14 July 2020",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::eu-china-dialogue-on-green-stimulus-packages",
+      "type": "publication",
+      "title": "EU-China dialogue on green stimulus packages",
+      "date": "6 July 2020",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::necps-as-governance-tools-for-climate-policy-in-south-east-europe",
+      "type": "publication",
+      "title": "NECPs as governance tools for climate policy in South East Europe",
+      "date": "30 June 2020",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::dual-benefit-stimulus-for-germany",
+      "type": "publication",
+      "title": "Dual-benefit stimulus for Germany",
+      "date": "3 June 2020",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::coal-phase-out-in-south-east-europe",
+      "type": "publication",
+      "title": "Coal phase-out in South East Europe",
+      "date": "1 May 2020",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::an-assessment-of-final-necps-in-south-east-europe",
+      "type": "publication",
+      "title": "An assessment of final NECPs in South East Europe",
+      "date": "1 May 2020",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::making-the-most-of-offshore-wind",
+      "type": "publication",
+      "title": "Making the most of offshore wind",
+      "date": "3 March 2020",
+      "format": "Study"
+    },
+    {
+      "id": "pub::the-european-power-sector-in-2019",
+      "type": "publication",
+      "title": "The European power sector in 2019",
+      "date": "5 February 2020",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::supporting-the-energy-transition-in-the-western-balkans",
+      "type": "publication",
+      "title": "Supporting the energy transition in the Western Balkans",
+      "date": "15 January 2020",
+      "format": "Policy Brief"
+    },
+    {
+      "id": "pub::the-german-power-market-state-of-affairs-in-2019",
+      "type": "publication",
+      "title": "The German power market: state of affairs in 2019",
+      "date": "9 January 2020",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2019",
+      "type": "publication",
+      "title": "The energy transition in the power sector: state of affairs in 2019",
+      "date": "9 January 2020",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::the-liberalisation-of-electricity-markets-in-germany",
+      "type": "publication",
+      "title": "The liberalisation of electricity markets in Germany",
+      "date": "20 December 2019",
+      "format": "Study"
+    },
+    {
+      "id": "pub::building-sector-efficiency-a-crucial-component-of-the-energy-transition",
+      "type": "publication",
+      "title": "Building sector efficiency: a crucial component of the energy transition",
+      "date": "16 December 2019",
+      "format": "Study"
+    },
+    {
+      "id": "pub::levelised-cost-of-electricity-in-indonesia-2019",
+      "type": "publication",
+      "title": "Levelised cost of electricity in Indonesia 2019",
+      "date": "1 December 2019",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::myths-and-facts-about-deploying-renewables-in-the-power-systems-of-southeast-europe",
+      "type": "publication",
+      "title": "Myths and facts about deploying renewables in the power systems of Southeast Europe",
+      "date": "15 November 2019",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::levelised-cost-of-electricity-in-indonesia-2019-short-version",
+      "type": "publication",
+      "title": "Levelised cost of electricity in Indonesia 2019 (short version)",
+      "date": "1 November 2019",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::climate-unambition-in-south-east-europe",
+      "type": "publication",
+      "title": "Climate (un)ambition in South East Europe",
+      "date": "28 October 2019",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::distribution-grid-planning-for-a-successful-energy-transition-focus-on-electromobility",
+      "type": "publication",
+      "title": "Distribution grid planning for a successful energy transition – focus on electromobility",
+      "date": "24 October 2019",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::unlocking-low-cost-renewables-in-south-east-europe",
+      "type": "publication",
+      "title": "Unlocking low cost renewables in South East Europe",
+      "date": "8 October 2019",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::the-german-coal-commission",
+      "type": "publication",
+      "title": "The German Coal Commission",
+      "date": "9 August 2019",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::the-southeast-european-power-system-in-2030",
+      "type": "publication",
+      "title": "The Southeast European power system in 2030",
+      "date": "19 June 2019",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::integrating-renewables-into-the-japanese-power-grid-by-2030",
+      "type": "publication",
+      "title": "Integrating renewables into the Japanese power grid by 2030",
+      "date": "23 April 2019",
+      "format": "Study"
+    },
+    {
+      "id": "pub::on-the-way-to-efficiently-supplying-more-than-half-of-turkeys-electricity-from-renewables",
+      "type": "publication",
+      "title": "On the way to efficiently supplying more than half of Turkey’s electricity from renewables",
+      "date": "1 April 2019",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::european-energy-transition-2030-the-big-picture",
+      "type": "publication",
+      "title": "European energy transition 2030: the big picture",
+      "date": "6 March 2019",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::a-word-on-grids",
+      "type": "publication",
+      "title": "A word on grids",
+      "date": "1 February 2019",
+      "format": "Background"
+    },
+    {
+      "id": "pub::a-roadmap-for-indonesias-power-sector",
+      "type": "publication",
+      "title": "A roadmap for Indonesia’s power sector",
+      "date": "1 February 2019",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::the-european-power-sector-in-2018",
+      "type": "publication",
+      "title": "The European power sector in 2018",
+      "date": "30 January 2019",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2018",
+      "type": "publication",
+      "title": "The energy transition in the power sector: state of affairs in 2018",
+      "date": "9 January 2019",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::good-heating-practices-from-denmark-and-germany",
+      "type": "publication",
+      "title": "Good heating practices from Denmark and Germany",
+      "date": "31 December 2018",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::integrating-renewables-into-the-japanese-power-grid-by-2030-summary",
+      "type": "publication",
+      "title": "Integrating renewables into the Japanese power grid by 2030 (Summary)",
+      "date": "14 December 2018",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::offshore-energy",
+      "type": "publication",
+      "title": "Offshore energy",
+      "date": "30 November 2018",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::a-french-german-cooperation-agenda-for-the-energy-transition-in-europe",
+      "type": "publication",
+      "title": "A French-German cooperation agenda for the energy transition in Europe",
+      "date": "29 November 2018",
+      "format": "Policy Brief"
+    },
+    {
+      "id": "pub::a-clean-energy-transition-in-southeast-europe",
+      "type": "publication",
+      "title": "A clean-energy transition in Southeast Europe",
+      "date": "16 November 2018",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::energy-transition-in-a-nutshell",
+      "type": "publication",
+      "title": "Energy transition in a nutshell",
+      "date": "1 November 2018",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::cross-border-renewables-cooperation",
+      "type": "publication",
+      "title": "Cross-border renewables cooperation",
+      "date": "16 October 2018",
+      "format": "Study"
+    },
+    {
+      "id": "pub::a-star-for-chinas-energy-transition",
+      "type": "publication",
+      "title": "A star for China’s energy transition",
+      "date": "9 October 2018",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::on-the-way-to-efficiently-supplying-more-than-half-of-turkeys-electricity-from-renewables-1",
+      "type": "publication",
+      "title": "On the way to efficiently supplying more than half of Turkey’s electricity from renewables",
+      "date": "1 September 2018",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::a-word-on-low-cost-renewables",
+      "type": "publication",
+      "title": "A word on low cost renewables",
+      "date": "14 August 2018",
+      "format": "Background"
+    },
+    {
+      "id": "pub::a-word-on-flexibility",
+      "type": "publication",
+      "title": "A word on flexibility",
+      "date": "14 August 2018",
+      "format": "Background"
+    },
+    {
+      "id": "pub::report-on-the-polish-power-system-2018",
+      "type": "publication",
+      "title": "Report on the Polish power system 2018",
+      "date": "7 August 2018",
+      "format": "Country Report"
+    },
+    {
+      "id": "pub::the-future-cost-of-electricity-based-synthetic-fuels-2",
+      "type": "publication",
+      "title": "The future cost of electricity-based synthetic fuels",
+      "date": "5 May 2018",
+      "format": "Study"
+    },
+    {
+      "id": "pub::energiewende-2030-the-big-picture",
+      "type": "publication",
+      "title": "Energiewende 2030: the big picture",
+      "date": "4 May 2018",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::increasing-the-share-of-renewables-in-turkeys-power-system",
+      "type": "publication",
+      "title": "Increasing the share of renewables in Turkey’s power system",
+      "date": "1 May 2018",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::a-future-for-lusatia",
+      "type": "publication",
+      "title": "A future for Lusatia",
+      "date": "3 April 2018",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::the-energiewende-and-the-transition-energetique-by-2030",
+      "type": "publication",
+      "title": "The 'Energiewende' and the 'transition énergétique' by 2030",
+      "date": "19 March 2018",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::integrating-variable-renewables-in-poland",
+      "type": "publication",
+      "title": "Integrating variable renewables in Poland",
+      "date": "28 February 2018",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::the-european-power-sector-in-2017",
+      "type": "publication",
+      "title": "The European power sector in 2017",
+      "date": "30 January 2018",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::reducing-the-cost-of-financing-renewables-in-europe",
+      "type": "publication",
+      "title": "Reducing the cost of ­financing renewables in Europe",
+      "date": "24 January 2018",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2017",
+      "type": "publication",
+      "title": "The energy transition in the power sector: state of affairs in 2017",
+      "date": "8 January 2018",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::renewables-versus-fossil-fuels-comparing-the-costs-of-electricity-systems",
+      "type": "publication",
+      "title": "Renewables versus fossil fuels – comparing the costs of electricity systems",
+      "date": "5 July 2017",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::energy-transition-in-the-power-sector-in-china-state-of-affairs-in-2016",
+      "type": "publication",
+      "title": "Energy transition in the power sector in China: state of affairs in 2016",
+      "date": "5 July 2017",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::flexibility-in-thermal-power-plants",
+      "type": "publication",
+      "title": "Flexibility in thermal power plants",
+      "date": "6 June 2017",
+      "format": "Study"
+    },
+    {
+      "id": "pub::the-cost-of-renewable-energy",
+      "type": "publication",
+      "title": "The cost of renewable energy",
+      "date": "31 May 2017",
+      "format": "Discussion Paper"
+    },
+    {
+      "id": "pub::future-cost-of-onshore-wind",
+      "type": "publication",
+      "title": "Future cost of onshore wind",
+      "date": "19 May 2017",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::the-energiewende-in-a-nutshell",
+      "type": "publication",
+      "title": "The Energiewende in a nutshell",
+      "date": "21 March 2017",
+      "format": "Background"
+    },
+    {
+      "id": "pub::heat-transition-2030",
+      "type": "publication",
+      "title": "Heat transition 2030",
+      "date": "14 February 2017",
+      "format": "Study"
+    },
+    {
+      "id": "pub::energy-transition-in-the-power-sector-in-europe-state-of-affairs-in-2016",
+      "type": "publication",
+      "title": "Energy transition in the power sector in Europe: state of affairs in 2016",
+      "date": "24 January 2017",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-2016",
+      "type": "publication",
+      "title": "The energy transition in the power sector: state of affairs 2016",
+      "date": "6 January 2017",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::assessing-the-winter-package-in-light-of-the-energy-union-objectives",
+      "type": "publication",
+      "title": "Assessing the winter package in light of the Energy Union objectives",
+      "date": "29 November 2016",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::energiewende-what-do-the-new-laws-mean",
+      "type": "publication",
+      "title": "Energiewende: What do the new laws mean?",
+      "date": "9 November 2016",
+      "format": "Background"
+    },
+    {
+      "id": "pub::reducing-the-cost-of-financing-renewables-in-europe-1",
+      "type": "publication",
+      "title": "Reducing the cost of financing renewables in Europe",
+      "date": "6 October 2016",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::refining-short-term-electricity-markets-to-enhance-flexibility",
+      "type": "publication",
+      "title": "Refining short-term electricity markets to enhance flexibility",
+      "date": "7 July 2016",
+      "format": "Study"
+    },
+    {
+      "id": "pub::the-power-market-pentagon",
+      "type": "publication",
+      "title": "The power market pentagon",
+      "date": "11 April 2016",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::energy-transition-in-the-power-sector-in-europe-state-of-affairs-in-2015",
+      "type": "publication",
+      "title": "Energy transition in the power sector in Europe: state of affairs in 2015",
+      "date": "6 April 2016",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::projected-eeg-costs-up-to-2035",
+      "type": "publication",
+      "title": "Projected EEG costs up to 2035",
+      "date": "29 February 2016",
+      "format": "Study"
+    },
+    {
+      "id": "pub::eleven-principles-for-a-consensus-on-coal-short-version",
+      "type": "publication",
+      "title": "Eleven principles for a consensus on coal (short version)",
+      "date": "25 January 2016",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::eleven-principles-for-reaching-a-consensus-on-coal",
+      "type": "publication",
+      "title": "Eleven principles for reaching a consensus on coal",
+      "date": "11 January 2016",
+      "format": "Summary"
+    },
+    {
+      "id": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-2015",
+      "type": "publication",
+      "title": "The energy transition in the power sector: state of affairs 2015",
+      "date": "8 January 2016",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::the-integration-cost-of-wind-and-solar-power",
+      "type": "publication",
+      "title": "The integration cost of wind and solar power",
+      "date": "2 December 2015",
+      "format": "Background"
+    },
+    {
+      "id": "pub::the-market-design-initiative-and-path-dependency",
+      "type": "publication",
+      "title": "The market design initiative and path dependency",
+      "date": "18 November 2015",
+      "format": "Background"
+    },
+    {
+      "id": "pub::a-snapshot-of-the-danish-energy-transition",
+      "type": "publication",
+      "title": "A snapshot of the Danish energy transition",
+      "date": "12 November 2015",
+      "format": "Study"
+    },
+    {
+      "id": "pub::what-if-there-were-a-nationwide-rollout-of-pv-battery-systems",
+      "type": "publication",
+      "title": "What if… there were a nationwide rollout of PV battery systems?",
+      "date": "29 October 2015",
+      "format": "Background"
+    },
+    {
+      "id": "pub::understanding-the-energiewende-2",
+      "type": "publication",
+      "title": "Understanding the Energiewende",
+      "date": "7 October 2015",
+      "format": "Background"
+    },
+    {
+      "id": "pub::report-on-the-german-power-system",
+      "type": "publication",
+      "title": "Report on the German power system",
+      "date": "1 October 2015",
+      "format": "Study"
+    },
+    {
+      "id": "pub::report-on-the-french-power-system",
+      "type": "publication",
+      "title": "Report on the French power system",
+      "date": "1 October 2015",
+      "format": "Country Report"
+    },
+    {
+      "id": "pub::the-danish-experience-with-integrating-variable-renewable-energy",
+      "type": "publication",
+      "title": "The Danish experience with integrating variable renewable energy",
+      "date": "25 September 2015",
+      "format": "Study"
+    },
+    {
+      "id": "pub::the-european-power-system-in-2030-flexibility-challenges-and-integration-benefits-1",
+      "type": "publication",
+      "title": "The European power system in 2030: flexibility challenges and integration benefits",
+      "date": "23 June 2015",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::increased-integration-of-the-nordic-and-german-electricity-systems-full-report",
+      "type": "publication",
+      "title": "Increased integration of the Nordic and German electricity systems (full report)",
+      "date": "11 June 2015",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::increased-integration-of-the-nordic-and-german-electricity-systems-summary",
+      "type": "publication",
+      "title": "Increased integration of the Nordic and German electricity systems (Summary)",
+      "date": "11 June 2015",
+      "format": "Study"
+    },
+    {
+      "id": "pub::potential-interactions-between-capacity-mechanisms-in-france-and-germany",
+      "type": "publication",
+      "title": "Potential interactions between capacity mechanisms in France and Germany",
+      "date": "1 March 2015",
+      "format": "Study"
+    },
+    {
+      "id": "pub::the-role-of-emissions-trading-in-the-energy-transition",
+      "type": "publication",
+      "title": "The role of emissions trading in the energy transition",
+      "date": "1 February 2015",
+      "format": "Background"
+    },
+    {
+      "id": "pub::current-and-future-cost-of-photovoltaics",
+      "type": "publication",
+      "title": "Current and future cost of photovoltaics",
+      "date": "1 February 2015",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::the-energiewende-in-the-power-sector-state-of-affairs-2014",
+      "type": "publication",
+      "title": "The Energiewende in the power sector: state of affairs 2014",
+      "date": "7 January 2015",
+      "format": "Slide Deck"
+    },
+    {
+      "id": "pub::capacity-market-arrangements-in-great-britain",
+      "type": "publication",
+      "title": "Capacity market arrangements in Great Britain",
+      "date": "1 January 2015",
+      "format": "Partner Publication"
+    },
+    {
+      "id": "pub::power-market-operations-and-system-reliability",
+      "type": "publication",
+      "title": "Power market operations and system reliability",
+      "date": "1 December 2014",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::electricity-storage-in-the-german-energy-transition",
+      "type": "publication",
+      "title": "Electricity storage in the German energy transition",
+      "date": "1 December 2014",
+      "format": "Study"
+    },
+    {
+      "id": "pub::auctions-for-renewable-energy-in-the-european-union",
+      "type": "publication",
+      "title": "Auctions for renewable energy in the European Union",
+      "date": "1 December 2014",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::report-on-the-dutch-power-system",
+      "type": "publication",
+      "title": "Report on the Dutch power system",
+      "date": "1 September 2014",
+      "format": "Study"
+    },
+    {
+      "id": "pub::risk-of-a-capacity-shortage-in-the-polish-electricity-system-up-to-2020",
+      "type": "publication",
+      "title": "Risk of a capacity shortage in the Polish electricity system up to 2020",
+      "date": "1 September 2014",
+      "format": "Study"
+    },
+    {
+      "id": "pub::10-questions-and-answers-on-the-2014-reform-of-the-german-renewable-energy-act",
+      "type": "publication",
+      "title": "10 questions and answers on the 2014 reform of the German Renewable Energy Act",
+      "date": "1 August 2014",
+      "format": "Background"
+    },
+    {
+      "id": "pub::negative-electricity-prices-causes-and-effects",
+      "type": "publication",
+      "title": "Negative electricity prices: causes and effects",
+      "date": "1 August 2014",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::benefits-of-energy-efficiency-on-the-german-power-sector-summary",
+      "type": "publication",
+      "title": "Benefits of energy efficiency on the German power sector (Summary)",
+      "date": "1 April 2014",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::comparing-the-cost-of-low-carbon-technologies-what-is-the-cheapest-option",
+      "type": "publication",
+      "title": "Comparing the cost of low-carbon technologies: what is the cheapest option?",
+      "date": "1 April 2014",
+      "format": "Analysis"
+    },
+    {
+      "id": "pub::report-on-the-polish-power-system-2014",
+      "type": "publication",
+      "title": "Report on the Polish power system 2014",
+      "date": "1 February 2014",
+      "format": "Country Report"
+    },
+    {
+      "id": "pub::cost-optimal-expansion-of-renewables-in-germany",
+      "type": "publication",
+      "title": "Cost optimalexpansion of renewables in Germany",
+      "date": "1 August 2013",
+      "format": "Study"
+    },
+    {
+      "id": "pub::12-insights-on-germanys-energiewende",
+      "type": "publication",
+      "title": "12 insights on Germany’s  Energiewende",
+      "date": "1 February 2013",
+      "format": "Impulse"
+    },
+    {
+      "id": "pub::breaking-free-from-fossil-gas-in-industry",
+      "type": "publication",
+      "title": "Breaking free from fossil gas in industry",
+      "date": "2026-03-18",
+      "format": "Study"
+    },
+    {
+      "id": "topic::industry-decarbonisation",
+      "type": "topic",
+      "name": "Industry decarbonisation"
+    },
+    {
+      "id": "pub::power-market-design-for-the-renewable-age",
+      "type": "publication",
+      "title": "Power market design for the renewable age",
+      "date": "2025-11-27",
+      "format": "Report"
+    },
+    {
+      "id": "topic::electricity-market-design",
+      "type": "topic",
+      "name": "Electricity market design"
+    },
+    {
+      "id": "pub::the-future-of-district-heating",
+      "type": "publication",
+      "title": "The future of district heating",
+      "date": "2025-09-09",
+      "format": "Study"
+    },
+    {
+      "id": "pub::coal-to-clean-in-india",
+      "type": "publication",
+      "title": "Coal to clean in India",
+      "date": "2025-07-21",
+      "format": "Study"
+    },
+    {
+      "id": "region::india",
+      "type": "region",
+      "name": "India"
+    },
+    {
+      "id": "pub::scaling-green-hydrogen-imports",
+      "type": "publication",
+      "title": "Scaling green hydrogen imports",
+      "date": "2025-05-14",
+      "format": "Report"
+    },
+    {
+      "id": "pub::renewables-grids-and-permitting",
+      "type": "publication",
+      "title": "Renewables, grids and permitting",
+      "date": "2025-02-03",
+      "format": "Impulse"
+    }
+  ],
+  "edges": [
+    {
+      "source": "pub::reforming-power-purchase-agreements-for-flexible-coal-power",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::reforming-power-purchase-agreements-for-flexible-coal-power",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::reforming-power-purchase-agreements-for-flexible-coal-power",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::reforming-power-purchase-agreements-for-flexible-coal-power",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::everything-you-always-wanted-to-know-about-flexibility",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::everything-you-always-wanted-to-know-about-flexibility",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::everything-you-always-wanted-to-know-about-flexibility",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::everything-you-always-wanted-to-know-about-battery-storage",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::everything-you-always-wanted-to-know-about-battery-storage",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::everything-you-always-wanted-to-know-about-battery-storage",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::powering-europes-industry",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::powering-europes-industry",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::powering-europes-industry",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::powering-europes-industry",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::powering-europes-industry",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::powering-europes-industry",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::powering-europes-industry",
+      "target": "region::poland",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::emerging-technologies-series-virtual-power-plants-and-southeast-asia",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::emerging-technologies-series-virtual-power-plants-and-southeast-asia",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::emerging-technologies-series-virtual-power-plants-and-southeast-asia",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::emerging-technologies-series-virtual-power-plants-and-southeast-asia",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::emerging-technologies-series-virtual-power-plants-and-southeast-asia",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::emerging-technologies-series-virtual-power-plants-and-southeast-asia",
+      "target": "region::vietnam",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::navigating-energy-security-amid-an-evolving-risk-landscape",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::navigating-energy-security-amid-an-evolving-risk-landscape",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::from-last-mile-to-first-mile",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::from-last-mile-to-first-mile",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::from-last-mile-to-first-mile",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::transitioning-coal-regions-in-china-evidence-from-shanxi-and-shaanxi",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::transitioning-coal-regions-in-china-evidence-from-shanxi-and-shaanxi",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::transitioning-coal-regions-in-china-evidence-from-shanxi-and-shaanxi",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::transitioning-coal-regions-in-china-evidence-from-shanxi-and-shaanxi",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::value-and-enablers-of-data-centre-flexibility-in-europe",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::value-and-enablers-of-data-centre-flexibility-in-europe",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-roadmap-for-industrial-electrification-in-pakistan",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-roadmap-for-industrial-electrification-in-pakistan",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-roadmap-for-industrial-electrification-in-pakistan",
+      "target": "region::pakistan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::reconfiguring-traditional-gas-appliances-in-pakistans-residential-sector",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::reconfiguring-traditional-gas-appliances-in-pakistans-residential-sector",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::reconfiguring-traditional-gas-appliances-in-pakistans-residential-sector",
+      "target": "region::pakistan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::state-of-the-energy-transition-in-germany-annual-review-2025",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::state-of-the-energy-transition-in-germany-annual-review-2025",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::state-of-the-energy-transition-in-germany-annual-review-2025",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::state-of-the-energy-transition-in-germany-annual-review-2025",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::clean-heat-for-all",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::clean-heat-for-all",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::clean-heat-for-all",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::clean-heat-for-all",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::rethinking-liquified-natural-gas-lng",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::rethinking-liquified-natural-gas-lng",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::designing-energy-infrastructure-for-a-climate-neutral-europe",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::designing-energy-infrastructure-for-a-climate-neutral-europe",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::designing-energy-infrastructure-for-a-climate-neutral-europe",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::designing-energy-infrastructure-for-a-climate-neutral-europe",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::local-electricity-prices-in-germany",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::local-electricity-prices-in-germany",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::local-electricity-prices-in-germany",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::local-electricity-prices-in-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::europes-energy-security-on-the-path-to-climate-neutrality",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::europes-energy-security-on-the-path-to-climate-neutrality",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::europes-energy-security-on-the-path-to-climate-neutrality",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::europes-energy-security-on-the-path-to-climate-neutrality",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::emerging-technologies-series-the-role-of-renewable-hydrogen-in-the-power-sector",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::emerging-technologies-series-the-role-of-renewable-hydrogen-in-the-power-sector",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::emerging-technologies-series-the-role-of-renewable-hydrogen-in-the-power-sector",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::emerging-technologies-series-the-role-of-renewable-hydrogen-in-the-power-sector",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::emerging-technologies-series-the-role-of-renewable-hydrogen-in-the-power-sector",
+      "target": "region::vietnam",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-socially-just-heat-transition",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-socially-just-heat-transition",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-socially-just-heat-transition",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-socially-just-heat-transition",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::thailands-natural-gas-crossroads",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::thailands-natural-gas-crossroads",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-new-investment-instrument-for-onshore-wind-and-solar-pv",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-new-investment-instrument-for-onshore-wind-and-solar-pv",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-new-investment-instrument-for-onshore-wind-and-solar-pv",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-new-investment-instrument-for-onshore-wind-and-solar-pv",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::china-energy-transition-and-climate-status-report",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::china-energy-transition-and-climate-status-report",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::china-energy-transition-and-climate-status-report",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::china-energy-transition-and-climate-status-report",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::power-system-stability-in-the-age-of-renewable-energy",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::power-system-stability-in-the-age-of-renewable-energy",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::power-system-stability-in-the-age-of-renewable-energy",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::power-system-stability-in-the-age-of-renewable-energy",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::kazakhstans-power-system-2035",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::kazakhstans-power-system-2035",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::kazakhstans-power-system-2035",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::kazakhstans-power-system-2035",
+      "target": "region::kazakhstan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::making-the-most-of-green-electricity",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::making-the-most-of-green-electricity",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::making-the-most-of-green-electricity",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::making-the-most-of-green-electricity",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::climate-neutral-germany",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-neutral-germany",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-neutral-germany",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-neutral-germany",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-neutral-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-carbon-price-for-buildings-and-road-transport",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-carbon-price-for-buildings-and-road-transport",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-carbon-price-for-buildings-and-road-transport",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-carbon-price-for-buildings-and-road-transport",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::boosting-the-clean-heat-market-impulse",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::boosting-the-clean-heat-market-impulse",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::boosting-the-clean-heat-market-impulse",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::assessing-the-potential-impact-of-a-european-clean-heat-standard",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::assessing-the-potential-impact-of-a-european-clean-heat-standard",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::assessing-the-potential-impact-of-a-european-clean-heat-standard",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::designing-a-european-clean-heat-standard",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::designing-a-european-clean-heat-standard",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::designing-a-european-clean-heat-standard",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::analysis-of-the-eu-heating-market",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::analysis-of-the-eu-heating-market",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::analysis-of-the-eu-heating-market",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-just-transition-for-coal-regions-insights-from-shanxi-and-europe",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-just-transition-for-coal-regions-insights-from-shanxi-and-europe",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-just-transition-for-coal-regions-insights-from-shanxi-and-europe",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-just-transition-for-coal-regions-insights-from-shanxi-and-europe",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-just-transition-for-coal-regions-insights-from-shanxi-and-europe",
+      "target": "region::poland",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "target": "region::pakistan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "target": "region::south-korea",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::scale-up-for-net-zero-benchmarking-solar-and-wind-growth-in-south-southeast-and-east-asia",
+      "target": "region::vietnam",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::power-system-stability",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::power-system-stability",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::power-system-stability",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::climate-neutral-germany-executive-summary",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-neutral-germany-executive-summary",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-neutral-germany-executive-summary",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-neutral-germany-executive-summary",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-neutral-germany-executive-summary",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::enabling-a-just-coal-transition-in-kazakhstan",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::enabling-a-just-coal-transition-in-kazakhstan",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::enabling-a-just-coal-transition-in-kazakhstan",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::enabling-a-just-coal-transition-in-kazakhstan",
+      "target": "region::kazakhstan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::electricity-market-design-in-southeast-asia",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::electricity-market-design-in-southeast-asia",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::electricity-market-design-in-southeast-asia",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::electricity-market-design-in-southeast-asia",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::electricity-market-design-in-southeast-asia",
+      "target": "region::vietnam",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::investing-in-the-green-deal",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::investing-in-the-green-deal",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::investing-in-the-green-deal",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::investing-in-the-green-deal",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::investing-in-the-green-deal",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::investing-in-the-green-deal",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::investing-in-the-green-deal",
+      "target": "region::poland",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::eu-climate-policy-between-economic-opportunities-and-fiscal-risks",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eu-climate-policy-between-economic-opportunities-and-fiscal-risks",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eu-climate-policy-between-economic-opportunities-and-fiscal-risks",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eu-climate-policy-between-economic-opportunities-and-fiscal-risks",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::unlocking-rooftop-solar-pv-investment-in-thailand",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::low-carbon-hydrogen-in-the-eu",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::low-carbon-hydrogen-in-the-eu",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::low-carbon-hydrogen-in-the-eu",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::low-carbon-hydrogen-in-the-eu",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::assessing-the-impact-of-low-carbon-hydrogen-regulation-in-the-eu",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::support-on-regulatory-approach-for-lch-in-the-eu",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::navigating-the-transition-to-net-zero-emissions-in-southeast-asia",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::navigating-the-transition-to-net-zero-emissions-in-southeast-asia",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::navigating-the-transition-to-net-zero-emissions-in-southeast-asia",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::navigating-the-transition-to-net-zero-emissions-in-southeast-asia",
+      "target": "region::vietnam",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::9-insights-on-hydrogen-southeast-asia-edition",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::9-insights-on-hydrogen-southeast-asia-edition",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::9-insights-on-hydrogen-southeast-asia-edition",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::9-insights-on-hydrogen-southeast-asia-edition",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::12-insights-on-hydrogen-brazil-edition-1",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::12-insights-on-hydrogen-brazil-edition-1",
+      "target": "region::brazil",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::boosting-flexibility-in-distribution-grids",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::boosting-flexibility-in-distribution-grids",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::boosting-flexibility-in-distribution-grids",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::boosting-flexibility-in-distribution-grids",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-benefits-of-energy-flexibility-at-home",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-benefits-of-energy-flexibility-at-home",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-benefits-of-energy-flexibility-at-home",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::2050-climate-neutrality-roadmap-for-korea-k-map-scenario-20",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::2050-climate-neutrality-roadmap-for-korea-k-map-scenario-20",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::2050-climate-neutrality-roadmap-for-korea-k-map-scenario-20",
+      "target": "region::south-korea",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::eu-policies-for-climate-neutrality-in-the-decisive-decade-full-report",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eu-policies-for-climate-neutrality-in-the-decisive-decade-full-report",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eu-policies-for-climate-neutrality-in-the-decisive-decade-full-report",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eu-policies-for-climate-neutrality-in-the-decisive-decade-full-report",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::modernising-kazakhstans-coal-dependent-power-sector-through-renewables",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::modernising-kazakhstans-coal-dependent-power-sector-through-renewables",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::modernising-kazakhstans-coal-dependent-power-sector-through-renewables",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::modernising-kazakhstans-coal-dependent-power-sector-through-renewables",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::modernising-kazakhstans-coal-dependent-power-sector-through-renewables",
+      "target": "region::kazakhstan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::eu-policies-for-climate-neutrality-in-the-decisive-decade",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eu-policies-for-climate-neutrality-in-the-decisive-decade",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-roll-out-of-large-scale-heat-pumps-in-germany",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-roll-out-of-large-scale-heat-pumps-in-germany",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-roll-out-of-large-scale-heat-pumps-in-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::transitioning-away-from-coal-in-indonesia-vietnam-and-the-philippines",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::transitioning-away-from-coal-in-indonesia-vietnam-and-the-philippines",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::transitioning-away-from-coal-in-indonesia-vietnam-and-the-philippines",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::transitioning-away-from-coal-in-indonesia-vietnam-and-the-philippines",
+      "target": "region::vietnam",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::sun-and-wind-for-net-zero-benchmarking-renewables-growth-in-south-southeast-and-east-asia",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::sun-and-wind-for-net-zero-benchmarking-renewables-growth-in-south-southeast-and-east-asia",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::sun-and-wind-for-net-zero-benchmarking-renewables-growth-in-south-southeast-and-east-asia",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::sun-and-wind-for-net-zero-benchmarking-renewables-growth-in-south-southeast-and-east-asia",
+      "target": "region::pakistan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::sun-and-wind-for-net-zero-benchmarking-renewables-growth-in-south-southeast-and-east-asia",
+      "target": "region::south-korea",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::sun-and-wind-for-net-zero-benchmarking-renewables-growth-in-south-southeast-and-east-asia",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::sun-and-wind-for-net-zero-benchmarking-renewables-growth-in-south-southeast-and-east-asia",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::sun-and-wind-for-net-zero-benchmarking-renewables-growth-in-south-southeast-and-east-asia",
+      "target": "region::vietnam",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::hydrogen-import-options-for-germany",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::hydrogen-import-options-for-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::europe-china-workshop-on-carbon-markets-summary",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::europe-china-workshop-on-carbon-markets-summary",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::ensuring-resilience-in-europes-energy-transition",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::ensuring-resilience-in-europes-energy-transition",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::submission-to-the-european-commission-on-the-draft-recast-of-commission-regulation-813-2013-eu-on-ecodesign-for-space-and-combination-heaters",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::submission-to-the-european-commission-on-the-draft-recast-of-commission-regulation-813-2013-eu-on-ecodesign-for-space-and-combination-heaters",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::submission-to-the-european-commission-on-the-draft-recast-of-commission-regulation-813-2013-eu-on-ecodesign-for-space-and-combination-heaters",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::levelised-cost-of-hydrogen",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::levelised-cost-of-hydrogen",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::heat-pumps-are-the-key-to-climate-neutrality-in-buildings",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::heat-pumps-are-the-key-to-climate-neutrality-in-buildings",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::heat-pumps-are-the-key-to-climate-neutrality-in-buildings",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::decarbonisation-in-state-owned-power-companies",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::from-coal-to-renewables",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::from-coal-to-renewables",
+      "target": "region::kazakhstan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::12-insights-on-hydrogen-argentina-edition",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::12-insights-on-hydrogen-argentina-edition",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::12-insights-on-hydrogen-argentina-edition",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::lng-climate-and-energy-security-towards-a-comprehensive-approach-for-europe",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::lng-climate-and-energy-security-towards-a-comprehensive-approach-for-europe",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::k-map-from-vision-to-implementation",
+      "target": "region::south-korea",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::breaking-free-from-fossil-gas",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::breaking-free-from-fossil-gas",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::prospects-of-renewable-hydrogen-in-china-and-its-role-in-industrial-decarbonisation",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::prospects-of-renewable-hydrogen-in-china-and-its-role-in-industrial-decarbonisation",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::prospects-of-renewable-hydrogen-in-china-and-its-role-in-industrial-decarbonisation",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::prospects-of-renewable-hydrogen-in-china-and-its-role-in-industrial-decarbonisation",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::how-europe-can-make-its-power-market-more-resilient",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::how-europe-can-make-its-power-market-more-resilient",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::argentina-as-a-hub-for-green-ammonia",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::argentina-as-a-hub-for-green-ammonia",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::argentina-as-a-hub-for-green-ammonia",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::electricity-market-design-for-climate-neutrality",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::overview-of-chinas-energy-transition-2022-1",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::coordinated-development-of-distributed-renewables-and-new-power-system-type-in-china",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::coordinated-development-of-distributed-renewables-and-new-power-system-type-in-china",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::coordinated-development-of-distributed-renewables-and-new-power-system-type-in-china",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-driving-forces-behind-the-green-transition-in-europe-and-south-korea",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-driving-forces-behind-the-green-transition-in-europe-and-south-korea",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-driving-forces-behind-the-green-transition-in-europe-and-south-korea",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-driving-forces-behind-the-green-transition-in-europe-and-south-korea",
+      "target": "region::south-korea",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::overview-of-chinas-energy-transition-2022",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::no-more-fuel-to-the-fire",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::no-more-fuel-to-the-fire",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::no-more-fuel-to-the-fire",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::no-more-fuel-to-the-fire",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::no-more-fuel-to-the-fire",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::towards-a-collective-vision-of-thai-energy-transition",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::towards-a-collective-vision-of-thai-energy-transition",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::towards-a-collective-vision-of-thai-energy-transition",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::towards-a-collective-vision-of-thai-energy-transition",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::coal-phase-out-in-germany-1",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::coal-phase-out-in-germany-1",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::powering-the-future-of-the-western-balkans-with-renewables-annex-i-country-level-results-for-wb-6-region",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::powering-the-future-of-the-western-balkans-with-renewables-annex-i-country-level-results-for-wb-6-region",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::powering-the-future-of-the-western-balkans-with-renewables-regional-wb-6-level-modelling-results",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::powering-the-future-of-the-western-balkans-with-renewables-regional-wb-6-level-modelling-results",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::powering-the-future-of-the-western-balkans-with-renewables",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::powering-the-future-of-the-western-balkans-with-renewables",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::powering-the-future-of-the-western-balkans-with-renewables",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::analysis-of-policy-measures-to-support-household-customers-in-times-of-high-electricity-prices",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::analysis-of-policy-measures-to-support-household-customers-in-times-of-high-electricity-prices",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::analysis-of-policy-measures-to-support-household-customers-in-times-of-high-electricity-prices",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::climate-neutral-power-system-2035-summary",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-neutral-power-system-2035-summary",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::promoting-regional-coal-just-transitions-in-china-europe-and-beyond",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::promoting-regional-coal-just-transitions-in-china-europe-and-beyond",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::promoting-regional-coal-just-transitions-in-china-europe-and-beyond",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::coal-phase-out-in-germany",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::coal-phase-out-in-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::delivering-repowereu",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::delivering-repowereu",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::integration-of-renewable-energy-to-the-turkish-energy-system",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::integration-of-renewable-energy-to-the-turkish-energy-system",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::regaining-europes-energy-sovereignty",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::regaining-europes-energy-sovereignty",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::2050-climate-neutrality-roadmap-for-korea-k-map-scenario",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::2050-climate-neutrality-roadmap-for-korea-k-map-scenario",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::2050-climate-neutrality-roadmap-for-korea-k-map-scenario",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::2050-climate-neutrality-roadmap-for-korea-k-map-scenario",
+      "target": "region::south-korea",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::commercial-prosumers-as-catalysts-for-solar-pv-adoption-in-south-east-europe",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::commercial-prosumers-as-catalysts-for-solar-pv-adoption-in-south-east-europe",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::transitioning-to-a-climate-neutral-eu-buildings-sector",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::transitioning-to-a-climate-neutral-eu-buildings-sector",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::beyond-net-zero-empowering-climate-mitigation-by-linking-to-development-goals",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::beyond-net-zero-empowering-climate-mitigation-by-linking-to-development-goals",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::beyond-net-zero-empowering-climate-mitigation-by-linking-to-development-goals",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::beyond-net-zero-empowering-climate-mitigation-by-linking-to-development-goals",
+      "target": "region::thailand",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::12-insights-on-hydrogen",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::12-insights-on-hydrogen",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::12-insights-on-hydrogen",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::12-insights-on-hydrogen",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::preparing-the-necessary-phase-out-of-fossil-gas-in-europe",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::preparing-the-necessary-phase-out-of-fossil-gas-in-europe",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-net-zero-energy-transition",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::global-steel-at-a-crossroads",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::phasing-out-coal-in-the-eus-power-system-by-2030",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::phasing-out-coal-in-the-eus-power-system-by-2030",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-future-of-lignite-in-the-western-balkans",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-future-of-lignite-in-the-western-balkans",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::making-renewable-hydrogen-cost-competitive-legal-analysis",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::making-renewable-hydrogen-cost-competitive-legal-analysis",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::making-renewable-hydrogen-cost-competitive-legal-analysis",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::making-renewable-hydrogen-cost-competitive-study",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::making-renewable-hydrogen-cost-competitive-study",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::making-renewable-hydrogen-cost-competitive-study",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::socioeconomic-impact-of-the-power-system-transition-in-turkey",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::socioeconomic-impact-of-the-power-system-transition-in-turkey",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::socioeconomic-impact-of-the-power-system-transition-in-turkey",
+      "target": "region::turkey",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::towards-climate-neutrality-in-the-buildings-sector-summary",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::towards-climate-neutrality-in-the-buildings-sector-summary",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::towards-climate-neutrality-in-the-buildings-sector-summary",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::phasing-out-coal-in-chile-and-germany",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::deep-decarbonization-of-indonesias-energy-system",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::deep-decarbonization-of-indonesias-energy-system",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::deep-decarbonization-of-indonesias-energy-system",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::deep-decarbonization-of-indonesias-energy-system",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::sector-coupling-for-grid-integration-of-wind-and-solar",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::sector-coupling-for-grid-integration-of-wind-and-solar",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::matching-money-with-green-ideas",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::matching-money-with-green-ideas",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::tomorrows-markets-today",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::tomorrows-markets-today",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::towards-a-climate-neutral-germany-by-2045",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::towards-a-climate-neutral-germany-by-2045",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::towards-a-climate-neutral-germany-by-2045",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::towards-a-climate-neutral-germany-by-2045",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::10-benchmarks-for-a-successful-july-fit-for-55-package",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::10-benchmarks-for-a-successful-july-fit-for-55-package",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::3-covid-19-china-energy-impact-tracker",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::3-covid-19-china-energy-impact-tracker",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-just-distribution",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-just-distribution",
+      "target": "region::south-africa",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::breakthrough-strategies-for-climate-neutral-industry-in-europe-study",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::breakthrough-strategies-for-climate-neutral-industry-in-europe-study",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::co2-emissions-trading-in-buildings-and-the-landlord-tenant-dilemma-how-to-solve-it",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::co2-emissions-trading-in-buildings-and-the-landlord-tenant-dilemma-how-to-solve-it",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::co2-emissions-trading-in-buildings-and-the-landlord-tenant-dilemma-how-to-solve-it",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-fit-for-55-package-based-on-environmental-integrity-and-solidarity",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-fit-for-55-package-based-on-environmental-integrity-and-solidarity",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::renewable-pathways-to-climate-neutral-japan-summary",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::renewable-pathways-to-climate-neutral-japan-summary",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::renewable-pathways-to-climate-neutral-japan-summary",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::renewable-pathways-to-climate-neutral-japan",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::renewable-pathways-to-climate-neutral-japan",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::renewable-pathways-to-climate-neutral-japan",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::10-years-after-fukushima",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::10-years-after-fukushima",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::10-years-after-fukushima",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::no-regret-hydrogen",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::no-regret-hydrogen",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-european-power-sector-in-2020",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-european-power-sector-in-2020",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::2-covid-19-china-energy-impact-tracker",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::2-covid-19-china-energy-impact-tracker",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::minimizing-the-cost-of-integrating-wind-and-solar-power-in-japan",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::minimizing-the-cost-of-integrating-wind-and-solar-power-in-japan",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::minimizing-the-cost-of-integrating-wind-and-solar-power-in-japan",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::minimizing-the-cost-of-integrating-wind-and-solar-power-in-japan",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::minimizing-the-cost-of-integrating-wind-and-solar-power-in-japan",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::towards-a-climate-neutral-germany",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::towards-a-climate-neutral-germany",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::towards-a-climate-neutral-germany",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::towards-a-climate-neutral-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::1-covid-19-china-energy-impact-tracker",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::1-covid-19-china-energy-impact-tracker",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::modernising-the-european-lignite-triangle",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::modernising-the-european-lignite-triangle",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::modernising-the-european-lignite-triangle",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::modernising-the-european-lignite-triangle",
+      "target": "region::poland",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::optimum-electricity-generation-capacity-mix-for-turkey-towards-2030",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::optimum-electricity-generation-capacity-mix-for-turkey-towards-2030",
+      "target": "region::turkey",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::how-to-raise-europes-climate-ambitions-for-2030",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::how-to-raise-europes-climate-ambitions-for-2030",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::critical-review-of-the-potential-contribution-of-the-european-commission-proposal-for-an-eu-recovery-and-resilience-programme-and-a-new-multiannual-financial-framework-to-achieving-the-objectives-of-the-green-deal-and-the-2030-and-2050-climate-targets",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::critical-review-of-the-potential-contribution-of-the-european-commission-proposal-for-an-eu-recovery-and-resilience-programme-and-a-new-multiannual-financial-framework-to-achieving-the-objectives-of-the-green-deal-and-the-2030-and-2050-climate-targets",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::critical-review-of-the-potential-contribution-of-the-european-commission-proposal-for-an-eu-recovery-and-resilience-programme-and-a-new-multiannual-financial-framework-to-achieving-the-objectives-of-the-green-deal-and-the-2030-and-2050-climate-targets",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::recovering-better",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::recovering-better",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::eu-china-dialogue-on-green-stimulus-packages",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eu-china-dialogue-on-green-stimulus-packages",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eu-china-dialogue-on-green-stimulus-packages",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::eu-china-dialogue-on-green-stimulus-packages",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::eu-china-dialogue-on-green-stimulus-packages",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::necps-as-governance-tools-for-climate-policy-in-south-east-europe",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::necps-as-governance-tools-for-climate-policy-in-south-east-europe",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::dual-benefit-stimulus-for-germany",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::dual-benefit-stimulus-for-germany",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::dual-benefit-stimulus-for-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::coal-phase-out-in-south-east-europe",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::coal-phase-out-in-south-east-europe",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::an-assessment-of-final-necps-in-south-east-europe",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::an-assessment-of-final-necps-in-south-east-europe",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::making-the-most-of-offshore-wind",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::making-the-most-of-offshore-wind",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::making-the-most-of-offshore-wind",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::making-the-most-of-offshore-wind",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::making-the-most-of-offshore-wind",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-european-power-sector-in-2019",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-european-power-sector-in-2019",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::supporting-the-energy-transition-in-the-western-balkans",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::supporting-the-energy-transition-in-the-western-balkans",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-german-power-market-state-of-affairs-in-2019",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-german-power-market-state-of-affairs-in-2019",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2019",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2019",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2019",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-liberalisation-of-electricity-markets-in-germany",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-liberalisation-of-electricity-markets-in-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::building-sector-efficiency-a-crucial-component-of-the-energy-transition",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::building-sector-efficiency-a-crucial-component-of-the-energy-transition",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::building-sector-efficiency-a-crucial-component-of-the-energy-transition",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::levelised-cost-of-electricity-in-indonesia-2019",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::levelised-cost-of-electricity-in-indonesia-2019",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::levelised-cost-of-electricity-in-indonesia-2019",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::myths-and-facts-about-deploying-renewables-in-the-power-systems-of-southeast-europe",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::myths-and-facts-about-deploying-renewables-in-the-power-systems-of-southeast-europe",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::levelised-cost-of-electricity-in-indonesia-2019-short-version",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::levelised-cost-of-electricity-in-indonesia-2019-short-version",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::levelised-cost-of-electricity-in-indonesia-2019-short-version",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::climate-unambition-in-south-east-europe",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::climate-unambition-in-south-east-europe",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::distribution-grid-planning-for-a-successful-energy-transition-focus-on-electromobility",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::distribution-grid-planning-for-a-successful-energy-transition-focus-on-electromobility",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::unlocking-low-cost-renewables-in-south-east-europe",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::unlocking-low-cost-renewables-in-south-east-europe",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-german-coal-commission",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-german-coal-commission",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-southeast-european-power-system-in-2030",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-southeast-european-power-system-in-2030",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::integrating-renewables-into-the-japanese-power-grid-by-2030",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::integrating-renewables-into-the-japanese-power-grid-by-2030",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::on-the-way-to-efficiently-supplying-more-than-half-of-turkeys-electricity-from-renewables",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::on-the-way-to-efficiently-supplying-more-than-half-of-turkeys-electricity-from-renewables",
+      "target": "region::turkey",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::european-energy-transition-2030-the-big-picture",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::european-energy-transition-2030-the-big-picture",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::european-energy-transition-2030-the-big-picture",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-word-on-grids",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-word-on-grids",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-word-on-grids",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-roadmap-for-indonesias-power-sector",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-roadmap-for-indonesias-power-sector",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-roadmap-for-indonesias-power-sector",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-european-power-sector-in-2018",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-european-power-sector-in-2018",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2018",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2018",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2018",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::good-heating-practices-from-denmark-and-germany",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::good-heating-practices-from-denmark-and-germany",
+      "target": "topic::fossil-gas-phase-down",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::integrating-renewables-into-the-japanese-power-grid-by-2030-summary",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::integrating-renewables-into-the-japanese-power-grid-by-2030-summary",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::offshore-energy",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-french-german-cooperation-agenda-for-the-energy-transition-in-europe",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-french-german-cooperation-agenda-for-the-energy-transition-in-europe",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-french-german-cooperation-agenda-for-the-energy-transition-in-europe",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-clean-energy-transition-in-southeast-europe",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-clean-energy-transition-in-southeast-europe",
+      "target": "region::southeast-europe",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::energy-transition-in-a-nutshell",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::energy-transition-in-a-nutshell",
+      "target": "region::indonesia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::cross-border-renewables-cooperation",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-star-for-chinas-energy-transition",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-star-for-chinas-energy-transition",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::on-the-way-to-efficiently-supplying-more-than-half-of-turkeys-electricity-from-renewables-1",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::on-the-way-to-efficiently-supplying-more-than-half-of-turkeys-electricity-from-renewables-1",
+      "target": "region::turkey",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-word-on-low-cost-renewables",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-word-on-low-cost-renewables",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-word-on-low-cost-renewables",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-word-on-flexibility",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-word-on-flexibility",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-word-on-flexibility",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::report-on-the-polish-power-system-2018",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::report-on-the-polish-power-system-2018",
+      "target": "region::poland",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-future-cost-of-electricity-based-synthetic-fuels-2",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-future-cost-of-electricity-based-synthetic-fuels-2",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::energiewende-2030-the-big-picture",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::energiewende-2030-the-big-picture",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::energiewende-2030-the-big-picture",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::increasing-the-share-of-renewables-in-turkeys-power-system",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::increasing-the-share-of-renewables-in-turkeys-power-system",
+      "target": "region::turkey",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-future-for-lusatia",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-future-for-lusatia",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-energiewende-and-the-transition-energetique-by-2030",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energiewende-and-the-transition-energetique-by-2030",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-energiewende-and-the-transition-energetique-by-2030",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::integrating-variable-renewables-in-poland",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::integrating-variable-renewables-in-poland",
+      "target": "region::poland",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-european-power-sector-in-2017",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-european-power-sector-in-2017",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::reducing-the-cost-of-financing-renewables-in-europe",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::reducing-the-cost-of-financing-renewables-in-europe",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2017",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2017",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-in-2017",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::renewables-versus-fossil-fuels-comparing-the-costs-of-electricity-systems",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::renewables-versus-fossil-fuels-comparing-the-costs-of-electricity-systems",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::renewables-versus-fossil-fuels-comparing-the-costs-of-electricity-systems",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::energy-transition-in-the-power-sector-in-china-state-of-affairs-in-2016",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::energy-transition-in-the-power-sector-in-china-state-of-affairs-in-2016",
+      "target": "region::china",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::flexibility-in-thermal-power-plants",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::flexibility-in-thermal-power-plants",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::flexibility-in-thermal-power-plants",
+      "target": "region::poland",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-cost-of-renewable-energy",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-cost-of-renewable-energy",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::future-cost-of-onshore-wind",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::future-cost-of-onshore-wind",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::future-cost-of-onshore-wind",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-energiewende-in-a-nutshell",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::heat-transition-2030",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::heat-transition-2030",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::energy-transition-in-the-power-sector-in-europe-state-of-affairs-in-2016",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::energy-transition-in-the-power-sector-in-europe-state-of-affairs-in-2016",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-2016",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-2016",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-2016",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::assessing-the-winter-package-in-light-of-the-energy-union-objectives",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::assessing-the-winter-package-in-light-of-the-energy-union-objectives",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::energiewende-what-do-the-new-laws-mean",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::energiewende-what-do-the-new-laws-mean",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::energiewende-what-do-the-new-laws-mean",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::reducing-the-cost-of-financing-renewables-in-europe-1",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::reducing-the-cost-of-financing-renewables-in-europe-1",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::refining-short-term-electricity-markets-to-enhance-flexibility",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::refining-short-term-electricity-markets-to-enhance-flexibility",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-power-market-pentagon",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-power-market-pentagon",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-power-market-pentagon",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-power-market-pentagon",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::energy-transition-in-the-power-sector-in-europe-state-of-affairs-in-2015",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::energy-transition-in-the-power-sector-in-europe-state-of-affairs-in-2015",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::projected-eeg-costs-up-to-2035",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::projected-eeg-costs-up-to-2035",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::eleven-principles-for-a-consensus-on-coal-short-version",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eleven-principles-for-a-consensus-on-coal-short-version",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::eleven-principles-for-reaching-a-consensus-on-coal",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::eleven-principles-for-reaching-a-consensus-on-coal",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-2015",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energy-transition-in-the-power-sector-state-of-affairs-2015",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-integration-cost-of-wind-and-solar-power",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-integration-cost-of-wind-and-solar-power",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-integration-cost-of-wind-and-solar-power",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-integration-cost-of-wind-and-solar-power",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-integration-cost-of-wind-and-solar-power",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-market-design-initiative-and-path-dependency",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-market-design-initiative-and-path-dependency",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-market-design-initiative-and-path-dependency",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-market-design-initiative-and-path-dependency",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::a-snapshot-of-the-danish-energy-transition",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::a-snapshot-of-the-danish-energy-transition",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::what-if-there-were-a-nationwide-rollout-of-pv-battery-systems",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::what-if-there-were-a-nationwide-rollout-of-pv-battery-systems",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::understanding-the-energiewende-2",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::understanding-the-energiewende-2",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::understanding-the-energiewende-2",
+      "target": "region::japan",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::report-on-the-german-power-system",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::report-on-the-german-power-system",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::report-on-the-french-power-system",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::report-on-the-french-power-system",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::report-on-the-french-power-system",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-danish-experience-with-integrating-variable-renewable-energy",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-danish-experience-with-integrating-variable-renewable-energy",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-european-power-system-in-2030-flexibility-challenges-and-integration-benefits-1",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-european-power-system-in-2030-flexibility-challenges-and-integration-benefits-1",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-european-power-system-in-2030-flexibility-challenges-and-integration-benefits-1",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-european-power-system-in-2030-flexibility-challenges-and-integration-benefits-1",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::increased-integration-of-the-nordic-and-german-electricity-systems-full-report",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::increased-integration-of-the-nordic-and-german-electricity-systems-full-report",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::increased-integration-of-the-nordic-and-german-electricity-systems-full-report",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::increased-integration-of-the-nordic-and-german-electricity-systems-summary",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::increased-integration-of-the-nordic-and-german-electricity-systems-summary",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::increased-integration-of-the-nordic-and-german-electricity-systems-summary",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::potential-interactions-between-capacity-mechanisms-in-france-and-germany",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::potential-interactions-between-capacity-mechanisms-in-france-and-germany",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::potential-interactions-between-capacity-mechanisms-in-france-and-germany",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::potential-interactions-between-capacity-mechanisms-in-france-and-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-role-of-emissions-trading-in-the-energy-transition",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-role-of-emissions-trading-in-the-energy-transition",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::current-and-future-cost-of-photovoltaics",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::current-and-future-cost-of-photovoltaics",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-energiewende-in-the-power-sector-state-of-affairs-2014",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energiewende-in-the-power-sector-state-of-affairs-2014",
+      "target": "topic::pathways-to-climate-neutrality",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-energiewende-in-the-power-sector-state-of-affairs-2014",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::capacity-market-arrangements-in-great-britain",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::capacity-market-arrangements-in-great-britain",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::power-market-operations-and-system-reliability",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::power-market-operations-and-system-reliability",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::electricity-storage-in-the-german-energy-transition",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::electricity-storage-in-the-german-energy-transition",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::electricity-storage-in-the-german-energy-transition",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::auctions-for-renewable-energy-in-the-european-union",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::auctions-for-renewable-energy-in-the-european-union",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::report-on-the-dutch-power-system",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::report-on-the-dutch-power-system",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::risk-of-a-capacity-shortage-in-the-polish-electricity-system-up-to-2020",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::risk-of-a-capacity-shortage-in-the-polish-electricity-system-up-to-2020",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::risk-of-a-capacity-shortage-in-the-polish-electricity-system-up-to-2020",
+      "target": "region::poland",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::10-questions-and-answers-on-the-2014-reform-of-the-german-renewable-energy-act",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::negative-electricity-prices-causes-and-effects",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::benefits-of-energy-efficiency-on-the-german-power-sector-summary",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::benefits-of-energy-efficiency-on-the-german-power-sector-summary",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::comparing-the-cost-of-low-carbon-technologies-what-is-the-cheapest-option",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::comparing-the-cost-of-low-carbon-technologies-what-is-the-cheapest-option",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::comparing-the-cost-of-low-carbon-technologies-what-is-the-cheapest-option",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::report-on-the-polish-power-system-2014",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::report-on-the-polish-power-system-2014",
+      "target": "region::poland",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::cost-optimal-expansion-of-renewables-in-germany",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::cost-optimal-expansion-of-renewables-in-germany",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::12-insights-on-germanys-energiewende",
+      "target": "topic::zero-emissions-power-systems",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::12-insights-on-germanys-energiewende",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::breaking-free-from-fossil-gas-in-industry",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::breaking-free-from-fossil-gas-in-industry",
+      "target": "topic::industry-decarbonisation",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::breaking-free-from-fossil-gas-in-industry",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::breaking-free-from-fossil-gas-in-industry",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::breaking-free-from-fossil-gas-in-industry",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::power-market-design-for-the-renewable-age",
+      "target": "topic::electricity-market-design",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::power-market-design-for-the-renewable-age",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::power-market-design-for-the-renewable-age",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-future-of-district-heating",
+      "target": "topic::buildings-and-heat-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-future-of-district-heating",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::the-future-of-district-heating",
+      "target": "region::germany",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::the-future-of-district-heating",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::coal-to-clean-in-india",
+      "target": "topic::coal-phase-out",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::coal-to-clean-in-india",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::coal-to-clean-in-india",
+      "target": "region::india",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::coal-to-clean-in-india",
+      "target": "region::southeast-asia",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::scaling-green-hydrogen-imports",
+      "target": "topic::hydrogen",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::scaling-green-hydrogen-imports",
+      "target": "topic::financing-and-investing-in-the-transition",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::scaling-green-hydrogen-imports",
+      "target": "topic::european-green-deal",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::scaling-green-hydrogen-imports",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::scaling-green-hydrogen-imports",
+      "target": "region::brazil",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::renewables-grids-and-permitting",
+      "target": "topic::scaling-up-renewable-energy",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::renewables-grids-and-permitting",
+      "target": "topic::electricity-market-design",
+      "type": "has_topic"
+    },
+    {
+      "source": "pub::renewables-grids-and-permitting",
+      "target": "region::european-union",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::renewables-grids-and-permitting",
+      "target": "region::france",
+      "type": "has_region"
+    },
+    {
+      "source": "pub::renewables-grids-and-permitting",
+      "target": "region::germany",
+      "type": "has_region"
+    }
+  ]
+}

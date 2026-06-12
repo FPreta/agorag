@@ -1,0 +1,3 @@
+# The pre-built store lives here (publications.jsonl, graph.json, entities.json,
+# qdrant_db/) and is committed so the app runs out of the box. Regenerate it with
+# `python -m core.etl.etl_pipeline` (see the README "Rebuilding the store" section).
