@@ -28,6 +28,8 @@ cp .env.example .env     # add your OPENAI_API_KEY
 python gradio_app.py                     # http://127.0.0.1:7860
 ```
 
+> On first launch, the app loads the store into memory, so startup may take a few moments.
+
 Open the app and ask, e.g. *"What has Agora published about coal phase-out in
 Southeast Asia?"*
 
